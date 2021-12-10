@@ -1,4 +1,7 @@
-
+/**
+ * 
+ * @author SnowBit <https://github.com/snowbit-coderboi>
+ */
 
 const data = require('./data/data.json'),
 
