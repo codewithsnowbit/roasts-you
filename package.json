@@ -1,0 +1,24 @@
+{
+  "name": "roaster",
+  "version": "1.0.0",
+  "description": "A NPM Package which roasts you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snowbit-coderboi/Roaster.git"
+  },
+  "keywords": [
+    "roast",
+    "fun",
+    "jokes"
+  ],
+  "author": "snowbit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snowbit-coderboi/Roaster/issues"
+  },
+  "homepage": "https://github.com/snowbit-coderboi/Roaster#readme"
+}
