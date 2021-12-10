@@ -12,5 +12,3 @@ const data = require('./data/data.json'),
 module.exports = {
     roast
 }
-
-console.log(roast())
