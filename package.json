@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/snowbit-coderboi/Roaster.git"
+    "url": "git+https://github.com/snowbit-coderboi/roasts-you.git"
   },
   "keywords": [
     "roast",
@@ -18,7 +18,7 @@
   "author": "snowbit",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/snowbit-coderboi/Roaster/issues"
+    "url": "https://github.com/snowbit-coderboi/roasts-you/issues"
   },
-  "homepage": "https://github.com/snowbit-coderboi/Roaster#readme"
+  "homepage": "https://github.com/snowbit-coderboi/roasts-you#readme"
 }
