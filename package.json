@@ -1,6 +1,6 @@
 {
   "name": "roasts-you",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "A NPM Package which roasts you",
   "main": "index.js",
   "scripts": {

@@ -8,8 +8,20 @@
 Check out [NPM Package]()
 
 ***
-### **Getting Started**
+## **Getting Started**
+***
 [![NPM](https://nodei.co/npm/roasts-you.png)](https://nodei.co/npm/roasts-you/)
+
+```bash
+$ npm i roasts-you
+```
+## **Installation**
+***
+This is a [Node JS](https://nodejs.org/en/) available through [NPM Registry](https://www.npmjs.com/)
+
+Before installing, [download and install Node js](https://nodejs.org/en/download/)
+
+After that, installation is done using `npm install` command.
 
 ```bash
 $ npm i roasts-you
