@@ -30,7 +30,7 @@ After that, installation is done using `npm install` command.
 $ npm i roasts-you
 ```
 
-### **Usage**
+## **Usage**
 
 ```js
 const Roast = require("roasts-you");
