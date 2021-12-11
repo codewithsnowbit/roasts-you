@@ -12,8 +12,6 @@ Check out [NPM Package]()
 
 ## **Getting Started**
 
----
-
 [![NPM](https://nodei.co/npm/roasts-you.png)](https://nodei.co/npm/roasts-you/)
 
 ```bash
@@ -21,8 +19,6 @@ $ npm i roasts-you
 ```
 
 ## **Installation**
-
----
 
 This is a [Node JS](https://nodejs.org/en/) available through [NPM Registry](https://www.npmjs.com/)
 
