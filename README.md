@@ -4,6 +4,7 @@
 ![NPM License](https://img.shields.io/npm/l/roasts-you)
 [![Twitter](https://img.shields.io/twitter/follow/snowbitCoderboi.svg?style=social&label=snowbitCoderboi)](https://twitter.com/snowbitCoderboi)
 ![GitHub followers](https://img.shields.io/github/followers/snowbit-coderboi?label=Follow%20Me&style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNTKqF1vhFYX_v0ERnUa1RQ?label=Subscribe%20Now&style=social)
 
 **A Simple NPM Package which roasts anyone who uses it, it provide funny roasts and good to use for your application.**
 
