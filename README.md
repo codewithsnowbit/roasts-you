@@ -6,7 +6,7 @@
 
 **A Simple NPM Package which roasts anyone who uses it, it provide funny roasts and good to use for your application.**
 
-Check out [NPM Package]()
+Check out [NPM Package](https://www.npmjs.com/package/roasts-you)
 
 ---
 
